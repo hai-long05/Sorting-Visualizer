@@ -7,7 +7,7 @@
 
 .array-bar{
     width: 2px;
-    background-color: turquoise;
+    background-color: red;
     display: inline-block;
     margin: 0 1px;
 }
